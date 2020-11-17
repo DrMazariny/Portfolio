@@ -1,7 +1,6 @@
 # Афиша
 ****
-С проектом можно ознакомиться в Google.colab по [ссылке][1]
-[1]: https://colab.research.google.com/drive/1Uo-R60R4RCNaJHcwY4Q6NwT9k3JTd4Km#scrollTo=9MFZ6yw9fMBM
+С проектом можно ознакомиться в Google.colab по [ссылке](https://colab.research.google.com/drive/1Uo-R60R4RCNaJHcwY4Q6NwT9k3JTd4Km#scrollTo=9MFZ6yw9fMBM)
 ****
 ## Описание
 В проекте проводится анализ рекламной компании Яндекс.Афиша, имеются три датасета visits, orders, cost.
